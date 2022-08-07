@@ -52,4 +52,4 @@ The famous Simon Game using HTML, CSS and jQuery.
 ![](Fun-Projects/Simon Game Challenge/img/game.png)
 
 
-![](Fun-Projects/Simon Game Challenge/img/final.png)
+![](img/final.png)
