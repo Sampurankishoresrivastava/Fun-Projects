@@ -12,9 +12,9 @@ A simple dice game created using HTML, CSS and JavaScript
 * If the number on the dice of player 1 is equal to the number on the dice of player 2, then it is a draw
 
 # Screenshots
-![](Dicee Challenge - Starting Files/images/pl1.png)
+![](img/pl1.png)
 # Screenshots
-![](images/pl1.png)
+![](img/pl1.png)
 
 # 2.) Drum-Kit
 A basic website that uses HTML, CSS and JavaScript to create drum sounds on a click.
@@ -26,7 +26,7 @@ A website where a user can use mouse or keyboard buttons to play different sound
 Used JavaScript event handlers, animations and audio files for the drum sound. Also used HTML5 and CSS3.
 
 # Screenshots
-![](Fun-Projects/Drum Kit Starting Files/images/previw.png)
+![](img/previw.png)
 
 
 # 3.) Simon-Game
@@ -46,10 +46,10 @@ The famous Simon Game using HTML, CSS and jQuery.
 * If the player fails to remeber the sequence, the game is over.
 
 # Screeenshot
-![](Fun-Projects/Simon Game Challenge/img/preview.png)
+![](img/preview.png)
 
 
-![](Fun-Projects/Simon Game Challenge/img/game.png)
+![](img/game.png)
 
 
 ![](img/final.png)
