@@ -13,7 +13,8 @@ A simple dice game created using HTML, CSS and JavaScript
 
 # Screenshots
 ![](Dicee Challenge - Starting Files/images/pl1.png)
-
+# Screenshots
+![](images/pl1.png)
 
 # 2.) Drum-Kit
 A basic website that uses HTML, CSS and JavaScript to create drum sounds on a click.
