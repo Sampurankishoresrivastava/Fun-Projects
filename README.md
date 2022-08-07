@@ -13,8 +13,6 @@ A simple dice game created using HTML, CSS and JavaScript
 
 # Screenshots
 ![](img/pl1.png)
-# Screenshots
-![](img/pl1.png)
 
 # 2.) Drum-Kit
 A basic website that uses HTML, CSS and JavaScript to create drum sounds on a click.
@@ -46,7 +44,7 @@ The famous Simon Game using HTML, CSS and jQuery.
 * If the player fails to remeber the sequence, the game is over.
 
 # Screeenshot
-![](img/preview.png)
+![](img/preview-simon.png)
 
 
 ![](img/game.png)
