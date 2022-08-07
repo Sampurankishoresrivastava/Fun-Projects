@@ -12,7 +12,7 @@ A simple dice game created using HTML, CSS and JavaScript
 * If the number on the dice of player 1 is equal to the number on the dice of player 2, then it is a draw
 
 # Screenshots
-![](Fun-Projects/Dicee Challenge - Starting Files/images/pl1.png)
+![](Dicee Challenge - Starting Files/images/pl1.png)
 
 
 # 2.) Drum-Kit
